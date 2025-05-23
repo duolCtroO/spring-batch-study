@@ -1,4 +1,4 @@
-package oort.cloud.config;
+package oort.cloud.batch.config;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
